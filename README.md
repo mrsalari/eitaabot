@@ -1,4 +1,4 @@
-# eitaabot
+# Eitaabot
 <p align="center">
     <br>
         <img src="https://s2.uupload.ir/files/inshot_20230218_173605494_ss40.jpg" alt="Eitaabot" width="428">
